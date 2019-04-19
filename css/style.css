@@ -1,0 +1,21 @@
+#game-board{
+    position: relative;
+    margin-top: 50px;
+}
+.cell{
+    border: solid 2px rebeccapurple;
+    text-align: center;
+    font-size:25pt;
+    cursor: pointer;
+    color: black;
+}
+#demo{
+    background: #333333;
+    color: wheat;
+    height: 60px;
+    width: 100px;
+}
+#demo1{
+    height: 60px;
+    width: 100px;
+}
